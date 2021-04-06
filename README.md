@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russalarya-web
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning Angular, Python, Java, HTMl/CSS, JavaScript
+- 🌱 I’m currently learning Angular, Python, Java, HTML/CSS, JavaScript
 - 💞️ I’m looking to collaborate on web and mobile applications
 - 📫 How to reach me Email: russalarya@gmail.com
 
