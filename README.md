@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @russalarya-web
 - 👀 I’m interested in Software and Web Development
-- 🛠 My frameworks are React.js, Node.js, Electron, Angular
-- 🔧 My languages are Python, TypeScript, JavaScript, Java
+- 🛠 My frameworks are React.js, Node.js, Electron, React Native, Angular
+- 🔧 My languages are Python, TypeScript, Java, JavaScript
 - 💞️ I’m looking to collaborate on web and mobile applications
 - 📫 How to reach me via e-mail: hello@russalarya.com
 
